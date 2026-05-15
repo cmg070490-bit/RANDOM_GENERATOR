@@ -4,7 +4,7 @@ Empieza a programar un sitio web JS/HTML/CSS en 30 segundos abriendo esta planti
 
 ## Antes de empezar
 
-Una vez tu editor de codigo este abierto, instala los paquetes escribiendo: `npm install`.
+Una vez tu editor de codigo este abierto, instala los paquetes escribiendo: `install`.npm 
 
 ### ¿Cómo ejecuto mi sitio web para ver los cambios en vivo?
 
